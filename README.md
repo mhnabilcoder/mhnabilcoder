@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhnabilcoder
-- 👀 I’m interested in coding,
-- 🌱 I’m currently learning python,kotlin
+- 👀 I’m interested in coding,App Development
+- 🌱 I’m currently learning Cross Platform Application Development Using Flutter
 - 📫 How to reach me ...
       email:mhnabilcoder@gmail.com
 
