@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @mhnabilcoder
-- 👀 I’m interested in coding,App Development
-- 🌱 I’m currently learning Cross Platform Application Development Using Flutter
+
+📊 Passionate about Accounting, Finance, and Business Development
+📚 Currently pursuing ACCA and diving deeper into Financial Analysis & Strategy
+💼 Working on building efficient business solutions combining financial insight with tech
+🧠 Previously explored programming, developed Flutter UIs & experimented with various tech concepts
+🚀 Now focused on using my cross-functional knowledge to support startups and develop scalable, finance-informed systems
 - 📫 How to reach me ...
-      email:mhnabilcoder@gmail.com
-      facebook:https://www.facebook.com/mahedi.hasan.nabil
-      linkedin:https://www.linkedin.com/in/mahedi-hasan-nabil
+      website: mhnabil.edcluster.com
+      email: mhnabilcoder@gmail.com
+      facebook: https://www.facebook.com/mahedi.hasan.nabil
+      linkedin: https://www.linkedin.com/in/mahedi-hasan-nabil
 
 <!---
 mhnabilcoder/mhnabilcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
