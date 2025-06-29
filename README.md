@@ -6,7 +6,7 @@
 🧠 Previously explored programming, developed Flutter UIs & experimented with various tech concepts
 🚀 Now focused on using my cross-functional knowledge to support startups and develop scalable, finance-informed systems
 - 📫 How to reach me ...
-      website: mhnabil.edcluster.com
+      website: [mhnabil.edcluster.com] (https://mhnabil.edcluster.com/)
       email: mhnabilcoder@gmail.com
       facebook: https://www.facebook.com/mahedi.hasan.nabil
       linkedin: https://www.linkedin.com/in/mahedi-hasan-nabil
